@@ -9,4 +9,4 @@ Problem sets are arranged by topic and are linked below. Each problem set lists 
 
 ## Other resources
 * [100+ Python exercises for beginners](https://github.com/zhiwehu/Python-programming-exercises/blob/98c0f26239d65d85e9548e1e82a2c52b63a260d3/100+%20Python%20challenging%20programming%20exercises%20for%20Python%203.md).
-* [Python mini project](https://github.com/ndleah/python-mini-project)s by [@nleah](https://github.com/ndleah).
+* [Python mini projects](https://github.com/ndleah/python-mini-project) by [@nleah](https://github.com/ndleah).
