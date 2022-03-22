@@ -37,10 +37,10 @@ As such, building out this repo is a way we can accomplish all of these goals. I
 4. Connect your fork to the upstream `python-practice-problems` repository.
 5. Before you begin making edits, pull the latest code
 6. Create a new branch and make edits. Edits will be at least one of the following, and guidelines for how to do these are given in the following section.
-  * Adding exercise ideas to a problem set
-  * Creating an exercise notebook (or notebooks) for problem(s) in a problem set
-  * Creating a solution notebook (or notebooks) for problem(s) in a problem set
-  * Updating readmes to make these problems easy to find
+    * Adding exercise ideas to a problem set
+    * Creating an exercise notebook (or notebooks) for problem(s) in a problem set
+    * Creating a solution notebook (or notebooks) for problem(s) in a problem set
+    * Updating readmes to make these problems easy to find
 7. Review your changes and push them to your fork
 8. Submit a pull request
 9. After a review, make any necessary changes
