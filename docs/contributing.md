@@ -30,7 +30,7 @@ As such, building out this repo is a way we can accomplish all of these goals. I
 
 Follow these guidelines when doing the following updates.
 
-## Creating a new problem set
+### Creating a new problem set
 
 If you are creating a new problem set ... 
 
@@ -38,12 +38,12 @@ If you are creating a new problem set ...
 2. Update the main [repo README](../README.md) to list this new problem set and add a link to the new folder.
 3. Add a README.md file to the folder you created. This is where the exercises and their solutions will be listed. At the top of the README add a title and a note that exercises are generally listed in order of difficulty and put a disclaimer that presented solutions are not the only solution. Fee free to copy the paragraph at the top of [the `print()` README](../problem_sets/print/README.md).
 
-## Adding problems to a problem set
+### Adding problems to a problem set
 
 1. Feel free to add ideas for exercises even if you aren't adding the exercise or solution notebooks. Having these problems in a single spot is helpful!
 2. If you came up with the exercise on your own, feel free to give yourself credit, else add a link to the original author and url.
 
-## Creating notebooks for exercises and solutions
+### Creating notebooks for exercises and solutions
 
 1. Exercises and their solutions should be saved in separate folders – encouraging the user to figure the problem out on their own before viewing the solution.
 2. Exercises and solutions should be stored in a folder of the same name within the appropriate problem set. For example, [../problem_sets/print/exercises/](../problem_sets/print/exercises/) and [../problem_sets/print/solutions/](../problem_sets/print/solutions/).
