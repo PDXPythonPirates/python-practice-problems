@@ -7,16 +7,17 @@ Problem sets are arranged by topic and are linked below. Each problem set lists 
 **The basics**
 1. [Printing](problem_sets/print)
 2. [Strings](problem_sets/strings)
-3. Math operations
-4. Collecting user input
-5. Lists
-6. Tuples
-7. Dictionaries
-8. Functions
-9. Conditional logic
-10. Exception handling and errors
-11. File I/O
-12. Object-oriented programming (OOP)
+3. [Math operations](problem_sets/math)
+4. [Collecting user input](problem_sets/user_input)
+5. [Lists](problem_sets/lists)
+6. [Tuples](problem_sets/tuples)
+7. [Dictionaries](problem_sets/dictionaries)
+8. [Sets](problem_sets/sets)
+9. [Functions](problem_sets/functions)
+10. [Conditional logic](problem_sets/logic)
+11. [Exception handling and errors](problem_sets/exception_handling)
+12. [File I/O](problem_sets/file_io)
+13. [Object-oriented programming (OOP)](problem_sets/oop)
 
 **Advanced topics**
 1. Decorators
