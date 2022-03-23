@@ -4,8 +4,30 @@ A collection of practice problems and other resources to level up your Python sk
 ## The problems
 Problem sets are arranged by topic and are linked below. Each problem set lists the problems and provides 1) a [repl](https://replit.com/) that you can fork to practice on your own, and 2) a solution [repl](https://replit.com/) so you can see and run some code that solves the problem. All solutions are written in Python 3. [I](https://github.com/bhlmn) am not the author of most of these problems, and have provided credit when I'm not!
 
+**The basics**
 1. [Printing](./problem_sets/print.md)
-2. [Strings and string methods](./problem_sets/strings.md)
+2. [Strings](./problem_sets/strings.md)
+3. Math operations
+4. Collecting user input
+5. Lists
+6. Tuples
+7. Dictionaries
+8. Functions
+9. Conditional logic
+10. Exception handling and errors
+11. File I/O
+12. Object-oriented programming (OOP)
+
+**Advanced topics**
+1. Decorators
+2. Generators
+3. Collections
+4. Logging
+5. JSON files
+6. Numpy
+7. Pandas
+8. Scikit Learn
+9. TensorFlow
 
 ## Other resources
 * [w3resource](https://www.w3resource.com/python-exercises/) has a collection of *thousands* of practice problems, organized by topic.
