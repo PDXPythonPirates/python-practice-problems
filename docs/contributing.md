@@ -1,6 +1,6 @@
 # Please contribute!
 
-The Pyrates would love help in building out this repository! As one could see above, there exists a multidude of resources across the internet for practicing Python, but we want a spot where:
+The Pyrates would love help in building out this repository! There exists a multidude of resources across the internet for practicing Python, but we want a spot where:
 
 * Problems are organized by topic, and somewhat ordered by difficulty
 * Exercises and solutions are version controlled
