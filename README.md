@@ -29,6 +29,10 @@ Problem sets are arranged by topic and are linked below. Each problem set lists 
 8. Scikit Learn
 9. TensorFlow
 
+**Projects**
+1. Create your own calculator
+2. Mad libs game
+
 ## Other resources
 * [w3resource](https://www.w3resource.com/python-exercises/) has a collection of *thousands* of practice problems, organized by topic.
 * [GeeksforGeeks](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/) also has *thousands* of exercises, organized by topic.
