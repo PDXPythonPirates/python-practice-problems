@@ -1,5 +1,5 @@
 # Python practice problems
-A collection of practice problems and other resources to level up your Python skills!
+A collection of practice problems, exercises, and other resources to level up your Python skills!
 
 ## The problems
 Problem sets are arranged by topic and are linked below. Each problem set lists the problems and provides 1) a [Colaboratory notebook](https://colab.research.google.com) where you can develop code in your browser, and 2) a solution [notebook](https://colab.research.google.com) so you can see and run some code that solves the problem. All solutions are written in Python 3. [I](https://github.com/bhlmn) am not the author of most of these problems, and have provided credit when I'm not!
