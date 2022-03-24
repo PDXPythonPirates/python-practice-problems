@@ -15,7 +15,7 @@ As such, building out this repo is a way we can accomplish all of these goals. I
 1. Look at the [open issues](https://github.com/PDXPythonPirates/python-practice-problems/issues) page for areas where we need help and pick a specific problem to tackle.
 2. Fork this repository to your own GitHub account. We recommend calling it `python-practice-problems-{your-first-name}` (e.g., `python-pracitce-problems-bryan` if you are blessed with such an awesome name).
 3. Clone the fork to your local machine.
-4. Connect your fork to the upstream `python-practice-problems` repository.
+4. Connect your fork to the upstream `python-practice-problems` repository. When in the directory you just cloned, run `git remote add upstream https://github.com/PDXPythonPirates/python-practice-problems.git`
 5. Before you begin making edits, pull the latest code
 6. Create a new branch and make edits. Edits will be at least one of the following, and guidelines for how to do these are given in [the following section](#edit-guidelines).
     * Adding exercise ideas to a problem set
